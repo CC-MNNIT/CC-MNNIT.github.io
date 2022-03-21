@@ -35,6 +35,20 @@ We host several events in the domain of Computer Science And Engineering for whi
 
 - [College Internet/ WiFi proxy configuration](https://github.com/CC-MNNIT/proxy-settings)
 
+## Current Representatives
+
+Every year a small group of students from B. Tech Final year are selected to lead the Club. Currently we 7 are managing the club activities and events:
+
+| Name                      | Reg. no. | Branch | Profile URL                            |
+| ------------------------- | -------- | ------ | -------------------------------------- |
+| Ashutosh Chitranshi       | 20184042 | CSE    | https://ashu12chi.github.io/           |
+| Nishchal Siddharth Pandey | 20184002 | CSE    | https://nisiddharth.github.io/         |
+| Mridul Bhatt              | 20184100 | CSE    | https://github.com/embiway/            |
+| Sidhant Agarwal           | 20188028 | IT     | https://github.com/sidhantagar/        |
+| Kshitiz Srivastava        | 20184091 | CSE    | https://github.com/pirateksh/          |
+| Anushka Srivastava        | 20185020 | ECE    | https://github.com/Anushkaa-Srivastava |
+| Aakanksha Khetan          | 20184025 | CSE    | https://github.com/khetan15            |
+
 ## Contact
 
 We love to hear out suggestions. Reach out to us at [<strong>computer.club@mnnit.ac.in</strong>](mailto:computer.club@mnnit.ac.in)

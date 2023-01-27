@@ -15,10 +15,11 @@ We host several events in the domain of Computer Science And Engineering for whi
 
 ## Year-wise reading resources
 
-1. [2021-22](https://github.com/CC-MNNIT/2021-22-Classes)
-2. [2020-21](https://github.com/CC-MNNIT/2020-21-Classes)
-3. [2019-20](https://github.com/CC-MNNIT/2019-20-Classes)
-4. [2018-19](https://github.com/CC-MNNIT/2018-19-Classes)
+1. [2022-23](https://github.com/CC-MNNIT/2022-23-Classes)
+2. [2021-22](https://github.com/CC-MNNIT/2021-22-Classes)
+3. [2020-21](https://github.com/CC-MNNIT/2020-21-Classes)
+4. [2019-20](https://github.com/CC-MNNIT/2019-20-Classes)
+5. [2018-19](https://github.com/CC-MNNIT/2018-19-Classes)
 
 ## Events
 
@@ -30,6 +31,7 @@ We host several events in the domain of Computer Science And Engineering for whi
 
 - [MNNIT CC Queries Facebook Group](https://www.facebook.com/groups/ccqueries)
 - [MNNIT CC Queries Official Microsoft Teams](https://bit.ly/ccqueriesteam)
+- [MNNIT CC Queries Instagram Page](https://www.instagram.com/cc.club.mnnit/?hl=en)
 
 ## Other resources
 
